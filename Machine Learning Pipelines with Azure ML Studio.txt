@@ -3,3 +3,7 @@ Machine Learning Pipelines with Azure ML Studio
 
 
 DAtaset link - https://archive.ics.uci.edu/dataset/2/adult
+
+
+- build an end-to-end Machine Learning Pipelines with Azure ML Studio.
+- Trained a two class boosting algorithm model and deployed as a web serive for predicting adults income.
